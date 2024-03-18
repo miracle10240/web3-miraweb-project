@@ -1,9 +1,3 @@
-![image info](./sarchi/static/images/main-logo.png)
-
-# SARCHI
-
-South Africa-Switzerland Bilateral Research Chair in Blockchain Technology (UJ Blockchain) aims to explore blockchain integrations with real-world applications and development in Agric food.
-
 ## Setup
 
 Set environment variable for Django Secret Key, Debug, Allowed Host, and Admin Path. Also add configuration for Database, Django Axes and Email with SMTP Host.
